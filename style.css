@@ -1,0 +1,107 @@
+html {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfh_jQzu23gLhdJWtrz2lNrPn3gsynVmItyBCl-V-0Yx_3Z6q);
+background-repeat: no-repeat;
+background-size: 100%;
+	color: darkorange;
+	text-shadow: 1px 1px 5px darkblue;
+}
+h2 {
+	font-size: 40px;
+	margin-top: 5px;
+}
+
+}
+.page { 
+	margin-top: 10px;
+	margin-bottom:10px;
+
+}
+
+.experience {
+	text-align: center;
+	padding-top:30px;
+	
+}
+
+.formation {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.lli {	
+	font-size:19px;
+	padding-left: 10px;
+
+}
+
+.titre {
+	padding-top: 10px;
+	padding-left: 50px;
+	text-decoration: underline;
+	font-size: 25px;
+
+}
+
+.bloc1 { 
+	margin-top: 15px;
+
+}  
+.colonne1 {
+	width: 70%;
+	display: inline-block;
+	font-size: 19px;
+	background:#fff3;
+	border-radius: 10%;
+	margin-left:20px;
+	height:547px;
+	position: relative;
+	float:left;
+	border-style: groove;
+	border-width: 2px;
+	
+}
+
+.colonne2 {
+	width: 25%;
+	background: #fff3;
+	display: inline-block;
+	border-radius: 10%;
+	position:relative;
+	height: 547px;
+	margin-right:20px;
+	float: right;
+	border-style: groove;
+	border-width: 2px;
+
+}
+
+.entete {
+	position: relative;
+	background:#fff3;
+	text-align: center;
+	color:darkorange;
+	margin-right: 20px;
+	margin-left: 20px;
+	border-style: groove;
+	border-width: 2px;	
+	font-size: 19px;
+	color:darkorange;	
+ 
+}
+.titreentete {
+	font-style: italic;
+}
+
+.titrelli {
+	text-align: center;
+	padding-bottom:30px;
+	padding-top:10px;
+	text-decoration: underline;
+}
+
+.annee {
+	text-decoration: underline;
+	font-size: 19px;
+	text-align: left;
+	font-style: italic;
+}
